@@ -1,0 +1,34 @@
+.dashboard {
+    text-align: center;
+}
+
+.dashboard h2 {
+    margin-top: 1rem;
+}
+
+.dashboard p {
+   margin-top: 1rem;
+}
+
+.flex {
+    display: flex;
+    gap: 10px;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.flexLeft {
+    display: flex;
+    gap: 10px;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.schedule_blocks {
+    background: white;
+    color: black;
+    padding: 1rem;
+    border-radius: 6px;
+
+}
+
